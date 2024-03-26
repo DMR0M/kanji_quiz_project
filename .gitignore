@@ -1,0 +1,5 @@
+.venv/
+db.sqlite3
+core/__pycache__
+kanji_quiz_api/__pycache__
+kanji_quiz_api/migrations/
